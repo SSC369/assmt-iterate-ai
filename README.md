@@ -1,8 +1,55 @@
-# React + Vite
+# Srimandir clone (iterate ai assignment)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Deployed link : https://assmt-iterate-ai-srimandhir.vercel.app/
+### Demo video : https://www.loom.com/share/d012c0639d7b4d2db34ad38041ed22e7
 
-Currently, two official plugins are available:
+## Project Overview
+Production ready app Clone of a SriMandir web application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies & concepts Used
+- ReactJS
+- Html
+- CSS
+- JS
+- Node.JS
+- react-router-dom
+
+## Features
+- Navigation features of the complete application flow
+- Routing features
+- onclick page routing
+- design
+
+## Setup Instructions
+
+### Frontend
+1. **Navigate to the frontend directory:**
+    ```bash
+    cd srimandhir
+    ```
+
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3. **Run the frontend server:**
+    ```bash
+    npm run dev
+    ```
+
+
+## Project Structure
+
+
+### Frontend
+- **src/components:** Contains React components.
+- **src/pages:** Contains main pages of the application.
+- **src/App.js:** Entry point of the frontend application.
+
+## Contributing
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes and push the branch to your fork.
+4. Create a pull request to the main repository.
+
